@@ -7,5 +7,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ML&DL&python apis
 - 📫 How to reach me: http://zkaria-gamal.vercel.app/ or https://www.linkedin.com/in/zkaria-gamal-82b486267/
 - mail me: zekogml11@gmail.com
-- ⚡ Fun fact: ...
 
