@@ -1,70 +1,92 @@
-## Hi there 👋 I'm Zakaria Gamal
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Zkaria+Gamal;AI+Engineer+%26+Autonomous+Agent+Builder;zkzkAgent+%7C+StudyWithFriend;Building+the+future+locally" alt="Typing SVG" />
+</p>
 
-**AI Engineer | Data Scientist | ML & DL Practitioner**
+<h1 align="center">zkaria gamal (zkzk) 👋</h1>
 
-I build production-ready AI systems—ranging from Computer Vision and NLP pipelines to scalable backend APIs and ML deployment platforms. I enjoy designing intelligent systems, optimizing deep learning models, and creating secure, high-performance applications.
+<p align="center">
+  <a href="https://zkaria-gamal.vercel.app"><strong>Portfolio</strong></a> •
+  <a href="https://www.linkedin.com/in/zkaria-gamal-82b486267">LinkedIn</a> •
+  <a href="https://x.com/zkzkgamal11">@zkzkgamal11</a> •
+  <a href="mailto:zekogml11@gmail.com">zekogml11@gmail.com</a>
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-00FFAA?style=for-the-badge&logo=ai&logoColor=black" alt="AI Engineer" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/LangGraph-LangChain-FF6F61?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Local%20LLMs-Ollama-00BFFF?style=for-the-badge" alt="Local AI" />
+</p>
 
-### 🔭 Currently Working On
-- **Dotchat** – LLM-powered communication system  
-- AI Recommendation Systems (Products & Feeds)  
-- Smart KYC System (Next Version)  
-- Content Moderation & Sensitive Content Detection  
-- Vision-based quality inspection tools  
-- Deferred deep linking analytics  
+### 🚀 About Me
+
+I'm **Zkaria Gamal** (often going by **zkzk** online) — an **AI Engineer** and **independent builder** focused on **autonomous agents**, **local-first AI**, and practical system-level intelligence.
+
+I create tools that let AI **act** on real computers — executing commands, managing files, learning from your documents, browsing when needed — all while keeping everything **private** and **local** when possible.
+
+Currently most excited about:
+- Agentic workflows that go way beyond chat
+- Self-hosted / offline-capable AI assistants
+- Turning natural language into real Linux / dev operations
+
+### 🔥 Highlight Projects
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech</th>
+    <th>Repo</th>
+  </tr>
+  <tr>
+    <td><strong>zkzkAgent</strong></td>
+    <td>Your personal junior developer / Linux system agent.<br>Runs commands, fixes Wi-Fi, kills processes, manages files — 100% local-first & privacy-focused.</td>
+    <td>LangGraph • Ollama • Python • Linux tooling</td>
+    <td><a href="https://github.com/zkzkGamal/zkzkAgent">→ zkzkAgent</a></td>
+  </tr>
+  <tr>
+    <td><strong>StudyWithFriend</strong></td>
+    <td>AI study companion that learns from your PDFs in real-time,<br>executes code, searches web, manages notes & files while you study.</td>
+    <td>LangGraph • LangChain • PDF ingestion • Agent tools</td>
+    <td><a href="https://github.com/zkzkGamal/StudyWithFriend">→ StudyWithFriend</a></td>
+  </tr>
+</table>
+
+Other interests & experiments:
+- Computer Vision pipelines (YOLO labeling automation, medical image analysis prototypes)
+- Scalable ML deployment & backend APIs
+- Privacy-preserving local AI
+
+### 🛠️ Tech I Build With (daily)
+
+- **Core**: Python, LangChain / LangGraph, Pydantic
+- **Local LLMs**: Ollama, Groq (for speed), sometimes Llama / Mixtral
+- **Tools & Agents**: Shell integration, Playwright, file system ops, RAG on PDFs/docs
+- **Others**: OpenCV, Transformers, FastAPI, Linux sysadmin scripting
+
+### 🌱 Currently Exploring
+
+- Multi-agent collaboration patterns
+- Better long-term memory & self-reflection in agents
+- Voice ↔ Agent interaction on desktop
+- Making agents more robust & recoverable when things go wrong
+
+### 📫 Let's connect
+
+- **Portfolio** → https://zkaria-gamal.vercel.app
+- **X / Twitter** → [@zkzkgamal11](https://x.com/zkzkgamal11) (I post builds & agent demos)
+- **LinkedIn** → [zkaria-gamal-82b486267](https://www.linkedin.com/in/zkaria-gamal-82b486267)
+- **Email** → zekogml11@gmail.com
+
+Feel free to open issues / PRs on my repos — especially if you want to help make agents more reliable or add cool new tools.
+
+```text
+"Stop typing, start delegating." 🤖
+
+  <img src="https://github-readme-stats.vercel.app/api?username=zkzkGamal&#x26;show_icons=true&#x26;theme=radical&#x26;hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zkzkGamal&#x26;theme=radical&#x26;hide_border=true" alt="Streak" width="48%">
 
 
-### 🌱 Currently Learning
-- **AI Quantization**, model optimization & deployment  
-- Reinforcement Learning & real-time CV applications  
+  Made with ❤️ in Cairo • Last updated February 2026
 
----
-
-### 💬 Ask Me About
-- Machine Learning & Deep Learning  
-- Computer Vision, NLP, LLMs, RAG systems  
-- Python APIs (FastAPI/Django), MLOps, CI/CD  
-- Cloud Deployments (AWS, Huawei, Vercel, Hostinger)  
-
----
-
-## 🛠️ Skills
-
-**Languages:** Python, JavaScript, C++, Java, SQL  
-**AI & ML:** CV, NLP, LLMs, GANs, Transformers, Recommender Systems  
-**Frameworks:** PyTorch, TensorFlow, Keras, Scikit-learn, HuggingFace  
-**Backend:** FastAPI, Django, REST APIs, WebSockets  
-**MLOps/DevOps:** Docker, CI/CD, MLflow, Cloudflare, Huawei Cloud, AWS  
-**Tools:** Redis, PostgreSQL, MongoDB, MySQL, OpenCV  
-**Security:** JWT, Data Encryption, OAuth2  
-**Other:** Data Engineering, Experiment Tracking, A/B Testing  
-
----
-
-## 🚀 Featured Projects
-
-- **Deep Link Analytics System** – Firebase Dynamic Links–like backend (FastAPI + MongoDB)  
-- **LiveChatFaceAuth** – Real-time encrypted chat with face authentication  
-- **Mask Detection + Distance** – CV model for safety compliance  
-- **Realtor Platform** – Real-time messaging & booking system  
-- **Pet Store ML Platform** – Multi-supplier marketplace with AI automation  
-
----
-
-## 📄 Publications
-- **A Unified Deep Learning Framework for Robust Multi-Class Tumor Classification**  
-  *Technologies (MDPI), 2025*  
-
----
-
-## 📫 Reach Me
-- **Portfolio:** https://zkaria-gamal.vercel.app  
-- **LinkedIn:** https://linkedin.com/in/zkaria-gamal-82b486267  
-- **Email:** `zekogml11@gmail.com`  
-
----
-
-## ⭐ Fun Fact
-I love building AI tools that scale—and making systems faster, smarter, and more secure.
-
+```
