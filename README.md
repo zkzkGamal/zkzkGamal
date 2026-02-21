@@ -82,11 +82,12 @@ Feel free to open issues / PRs on my repos — especially if you want to help ma
 
 ```text
 "Stop typing, start delegating." 🤖
-
-  <img src="https://github-readme-stats.vercel.app/api?username=zkzkGamal&#x26;show_icons=true&#x26;theme=radical&#x26;hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zkzkGamal&#x26;theme=radical&#x26;hide_border=true" alt="Streak" width="48%">
-
-
-  Made with ❤️ in Cairo • Last updated February 2026
-
 ```
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=zkzkGamal&#x26;show_icons=true&#x26;theme=radical&#x26;hide_border=true" alt="GitHub Stats" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zkzkGamal&#x26;theme=radical&#x26;hide_border=true" alt="Streak" width="48%">
+
+
+Made with ❤️ in Cairo • Last updated February 2026
+
