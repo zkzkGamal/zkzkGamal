@@ -77,6 +77,7 @@ Other interests & experiments:
 - **X / Twitter** → [@zkzkgamal11](https://x.com/zkzkgamal11) (I post builds & agent demos)
 - **LinkedIn** → [zkaria-gamal-82b486267](https://www.linkedin.com/in/zkaria-gamal-82b486267)
 - **Email** → zekogml11@gmail.com
+- **Resume** → [zkaria-gamal](https://zkzk.softzm.cloud/images/resume/Zakaria-Gamal.pdf)
 
 Feel free to open issues / PRs on my repos — especially if you want to help make agents more reliable or add cool new tools.
 
