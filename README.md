@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Zkaria+Gamal+—+AI+Engineer;LLMs+•+Autonomous+Agents+•+Computer+Vision;Building+production+AI+systems+in+Cairo)](https://zkaria-gamal.vercel.app)
-
 # Zkaria Gamal
 
 [![AI Engineer](https://img.shields.io/badge/AI%20Engineer-00FFAA?style=for-the-badge&logo=ai&logoColor=black)](https://zkaria-gamal.vercel.app)
