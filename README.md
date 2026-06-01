@@ -74,4 +74,4 @@ I work end-to-end — architecture, inference optimization, backend, and cloud d
 - LinkedIn → [zkaria-gamal-82b486267](https://www.linkedin.com/in/zkaria-gamal-82b486267/)
 - X / Twitter → [@zkzkgamal11](https://x.com/zkzkgamal11)
 - Email → zekogml11@gmail.com
-- Resume → [Download PDF](https://zkzk.softzm.cloud/images/resume/Zakaria-Gamal.pdf)
+- Resume → [Download PDF](https://zkzk.softzm.cloud/images/resume/Zakaria-Gamal-AI-Engineer.pdf)
