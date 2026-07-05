@@ -1,5 +1,4 @@
 # Zkaria Gamal
-
 **[Portfolio](https://zkaria-gamal.vercel.app) • [LinkedIn](https://www.linkedin.com/in/zkaria-gamal-82b486267/) • [X / Twitter](https://x.com/zkzkgamal11) • [Resume](https://zkzk.softzm.cloud/images/resume/Zakaria-Gamal.pdf) • zekogml11@gmail.com**
 
 ---
