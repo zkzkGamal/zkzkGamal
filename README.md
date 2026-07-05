@@ -60,16 +60,7 @@ I work end-to-end — architecture, inference optimization, backend, and cloud d
 
 ## Publication
 
-**A Unified Deep Learning Framework for Robust Multi-Class Tumor Classification in Skin and Brain MRI**
-*Technologies, MDPI — Accepted August 28, 2025*
-[View Paper](https://www.mdpi.com/2227-7080/13/9/401)
-
----
-
-## Connect
-
-- Portfolio → [zkaria-gamal.vercel.app](https://zkaria-gamal.vercel.app)
-- LinkedIn → [zkaria-gamal-82b486267](https://www.linkedin.com/in/zkaria-gamal-82b486267/)
-- X / Twitter → [@zkzkgamal11](https://x.com/zkzkgamal11)
-- Email → zekogml11@gmail.com
-- Resume → [Download PDF](https://zkzk.softzm.cloud/images/resume/Zakaria-Gamal-AI-Engineer.pdf)
+**A Unified Deep Learning Framework for Robust Multi-Class Tumor Classification in Skin and Brain MRI**,
+Technologies (MDPI), Vol. 13, Sept. 2025 Designed and implemented the full pipeline: U-Net segmentation gate,
+ablation across DCGAN vs Augmentor augmentation strategies (7k images/class), and fine-tuned InceptionV3 — 97%
+accuracy across 10 classes on two independent datasets.[View Paper](https://www.mdpi.com/2227-7080/13/9/401)
