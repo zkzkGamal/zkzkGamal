@@ -1,10 +1,5 @@
 # Zkaria Gamal
 
-[![AI Engineer](https://img.shields.io/badge/AI%20Engineer-00FFAA?style=for-the-badge&logo=ai&logoColor=black)](https://zkaria-gamal.vercel.app)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![LangGraph](https://img.shields.io/badge/LangGraph-LangChain-FF6F61?style=for-the-badge)](https://langchain-ai.github.io/langgraph/)
-[![Local LLMs](https://img.shields.io/badge/Local%20LLMs-Ollama-00BFFF?style=for-the-badge)](https://ollama.com)
-
 **[Portfolio](https://zkaria-gamal.vercel.app) • [LinkedIn](https://www.linkedin.com/in/zkaria-gamal-82b486267/) • [X / Twitter](https://x.com/zkzkgamal11) • [Resume](https://zkzk.softzm.cloud/images/resume/Zakaria-Gamal.pdf) • zekogml11@gmail.com**
 
 ---
